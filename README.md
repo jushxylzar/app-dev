@@ -5,3 +5,5 @@ The Kamen Rider Series (仮面ライダーシリーズ, Kamen Raidā Shirīzu) i
 
 https://en.wikipedia.org/wiki/Kamen_Rider
 
+example series:
+kabuto, zi-o, decade, zeztz, my-th
